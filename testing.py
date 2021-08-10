@@ -1,4 +1,3 @@
-  
 import Practica1;
 import pytest;
 
