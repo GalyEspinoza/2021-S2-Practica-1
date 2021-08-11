@@ -48,10 +48,10 @@ def test_sumatoriaParcial_5():
     assert Practica1.sumatoriaParcial(2, 'abc') == 'Error: Solo es permitido número de tipo entero'
 
 def test_multiplicacion_1():
-    assert Practica1.multiplicacion(1, 3) == 1
+    assert Practica1.multiplicacion(1, 3) == 3
 
 def test_multiplicacion_2():
-    assert Practica1.multiplicacion(3, 1) == 1
+    assert Practica1.multiplicacion(3, 1) == 3
 
 def test_multiplicacion_3():
     assert Practica1.multiplicacion(5, 0) == 0
