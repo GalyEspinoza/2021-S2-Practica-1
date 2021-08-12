@@ -85,10 +85,10 @@
 
 ```python
 >>>multiplicacion(1, 3)     
-1
+3
 
 >>>multiplicacion(3, 1)     
-1
+3
 
 >>>multiplicacion(5, 0)     
 0
